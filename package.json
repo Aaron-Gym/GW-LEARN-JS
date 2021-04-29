@@ -1,0 +1,25 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise-class.js",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "promises-aplus-tests": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "promises-aplus-tests test-promise.js",
+    "test2": "promises-aplus-tests demo-promise.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaron-Gym/KNOW-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aaron-Gym/KNOW-JS/issues"
+  },
+  "homepage": "https://github.com/Aaron-Gym/KNOW-JS#readme"
+}
